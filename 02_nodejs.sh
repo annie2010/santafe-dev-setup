@@ -12,3 +12,6 @@ sudo make install
 
 # ref http://howtonode.org/how-to-install-nodejs
 # Ubuntu
+
+# show installed pkg
+# $ dpkg -l | grep ^ii
