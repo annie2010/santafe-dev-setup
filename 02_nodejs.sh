@@ -15,3 +15,4 @@ sudo make install
 
 # show installed pkg
 # $ dpkg -l | grep ^ii
+# $ dpkg --list
