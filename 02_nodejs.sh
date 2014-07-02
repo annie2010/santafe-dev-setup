@@ -1,4 +1,5 @@
 # 1. Install the dependencies:
+sudo apt-get update
 sudo apt-get install g++ curl libssl-dev apache2-utils
 sudo apt-get install git-core
 
