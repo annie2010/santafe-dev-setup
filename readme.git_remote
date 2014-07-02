@@ -1,7 +1,9 @@
-1) on github, 
+A) new git repo on github
+
+A.1) on github, 
 create a public repo called "santafe-dev-setup" without README.md file
 
-2) on santafe
+A.2) on santafe
 follow instructions per
 https://github.com/annie2010/santafe-dev-setup
 
@@ -12,3 +14,20 @@ git commit -m "first commit"
 git remote add origin https://github.com/annie2010/santafe-dev-setup.git
 git push -u origin master
 
+B) git remote via "git clone"
+ref -  http://git-scm.com/book/en/Git-Basics-Working-with-Remotes
+
+C) git basic
+
+1) init a repo
+$ git init
+
+2) add files and commit
+$ git add *.sh
+$ git commit -m 'initial project version'
+
+3) push to remote repo
+$ git push
+
+ref
+- http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository
