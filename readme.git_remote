@@ -1,0 +1,14 @@
+1) on github, 
+create a public repo called "santafe-dev-setup" without README.md file
+
+2) on santafe
+follow instructions per
+https://github.com/annie2010/santafe-dev-setup
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/annie2010/santafe-dev-setup.git
+git push -u origin master
+
